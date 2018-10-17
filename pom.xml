@@ -13,7 +13,7 @@
 		<springframework.version>4.3.8.RELEASE</springframework.version>
 		<springsecurity.version>4.2.3.RELEASE</springsecurity.version>
 		<springsecurityoauth2.version>2.1.1.RELEASE</springsecurityoauth2.version>
-		<jackson.library>2.8.8</jackson.library>
+		<jackson.library>2.8.11.1</jackson.library>
 	</properties>
 
 	<dependencies>
